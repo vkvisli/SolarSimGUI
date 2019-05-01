@@ -1,0 +1,36 @@
+/***********************************************
+ Copyright 2019 Vebjørn Kvisli
+ License: GNU Lesser General Public License v3.0
+ ***********************************************/
+
+.App {
+  font-size: 0.9em;
+}
+
+.content {
+  padding: 10px;
+}
+
+.paramColumn {
+  width: 25%;
+  float: left;
+}
+
+.contentColumn {
+  width: 75%;
+  float: left;
+}
+
+.appBarLink {
+  font-size: 0.9em;
+  margin-right: 25px;
+}
+
+.appBarLink:hover {
+  cursor: pointer;
+}
+
+.tooltipFont {
+  font-size: 1.3em;
+  line-height: 1.2em;
+}
